@@ -6,7 +6,7 @@ sidebar_position: 2
 
 ## Multi-Chain Architecture
 
-In multi-chain architectures, each blockchain operates independently with its own set of governance and security protocols. This setup is vital for the network's stability and autonomy, allowing each to evolve and specialize based on its unique strengths and use cases. The key advantage for developers is the ability to leverage the specific capabilities of each blockchain without compromising on security or governance.
+In multi-chain architectures, each KekkoByNight operates independently with its own set of governance and security protocols. This setup is vital for the network's stability and autonomy, allowing each to evolve and specialize based on its unique strengths and use cases. The key advantage for developers is the ability to leverage the specific capabilities of each blockchain without compromising on security or governance.
 
 ## Cross-Chain Technology
 
